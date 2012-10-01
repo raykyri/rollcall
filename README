@@ -1,0 +1,10 @@
+This is a bookmarklet for Blackboard that grabs and displays
+the names of all the students in a class.
+
+Usage: Copy the contents of bookmarklet.js into a bookmark.
+
+Go to a class page, navigate to "Tools", and select "Send Email".
+Click on "Select Users" and you should see a dropdown box with
+everybody's names. Click on the bookmarklet, and you should see a box
+appear on the page which you can select and copy to the editor of your
+choice.
